@@ -1,10 +1,13 @@
 Package: BiProbitPartial
 Type: Package
 Title: Bivariate Probit with Partial Observability
-Version: 1.0.3
-Date: 2019-01-10
-Author: Michael Guggisberg and Amrit Romana
-Maintainer: Michael Guggisberg <mguggisb@ida.org>
+Version: 1.0.4
+Date: 2020-01-23
+Authors@R: c(person("Michael", "Guggisberg", role = c("cre", "aut"),
+    email = "mikeguggis@gmail.com"),
+    person("Amrit", "Romana", role = "aut"),
+    person("Institute for Defense Analyses", role = "cph"))
+Maintainer: Michael Guggisberg <mikeguggis@gmail.org>
 Description: A suite of functions to estimate, summarize
   and perform predictions with the bivariate probit subject to partial observability.
   The frequentist and Bayesian probabilistic philosophies are both supported. The 
