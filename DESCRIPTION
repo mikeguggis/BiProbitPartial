@@ -4,10 +4,10 @@ Title: Bivariate Probit with Partial Observability
 Version: 1.0.4
 Date: 2020-01-23
 Authors@R: c(person("Michael", "Guggisberg", role = c("cre", "aut"),
-    email = "mikeguggis@gmail.com"),
+    email = "MikeGuggis@gmail.com"),
     person("Amrit", "Romana", role = "aut"),
     person("Institute for Defense Analyses", role = "cph"))
-Maintainer: Michael Guggisberg <mikeguggis@gmail.org>
+Maintainer: Michael Guggisberg <MikeGuggis@gmail.org>
 Description: A suite of functions to estimate, summarize
   and perform predictions with the bivariate probit subject to partial observability.
   The frequentist and Bayesian probabilistic philosophies are both supported. The 
